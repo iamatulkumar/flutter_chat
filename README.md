@@ -11,8 +11,6 @@ Design by https://dribbble.com/shots/6428387-Messenger-Mobile-Concept
 
 <img src="https://github.com/iamatulkumar/flutter_chat/blob/master/screenshot/Screenshot%202019-12-25%20at%204.36.09%20PM.png" height="350em" /><img src="https://github.com/iamatulkumar/flutter_chat/blob/master/screenshot/Screenshot%202019-12-25%20at%204.37.20%20PM.png" height="350em" /><img src="https://github.com/iamatulkumar/flutter_chat/blob/master/screenshot/Screenshot%202019-12-25%20at%204.37.32%20PM.png" height="350em" />
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/Xq7bG1g7cgY)
-
 
 ### Created & Maintained By
 

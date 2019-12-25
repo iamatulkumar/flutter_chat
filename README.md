@@ -1,2 +1,2 @@
-# flutter_chat
+# Flutter Chat
 Marvel Chat: A chat application in flutter 
